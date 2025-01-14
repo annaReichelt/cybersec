@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("password_cracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a98005f3906d768add7ed0b804ce03d5d94dc5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ca182d48f67b590f52bf0421f8b3c8392c2f251")]
 [assembly: System.Reflection.AssemblyProductAttribute("password_cracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("password_cracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
