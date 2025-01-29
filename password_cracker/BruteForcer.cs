@@ -67,7 +67,6 @@ namespace Cybersec {
 						if (bfTime == new TimeSpan(0)) {
 							Console.WriteLine("Password not cracked with reduced alphabet");
 							bfTime = bruteForcePassword(password, "abcdefghijklmnopqrstuvwxyz");
-
 						}
 						if (bfTime == new TimeSpan(0)) {
 							Console.WriteLine("Password not cracked with reduced alphabet");
